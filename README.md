@@ -17,6 +17,8 @@ Pikmin USA Rev 1 (GPIE01, revision 1) Should work fine
 - the game looks for assets/ in the current directory, so the launch
   script must cd into the game folder before running nectar.
 
+### Regarding the use of AI in my projects, I am considering using it—and only to a limited extent—exclusively in projects that do not contain assets created by me (meaning if I make my own video game, I won't use any AI). To those reading this: I hope you respect my decision, and have a good day.
+
 
 
 ### Peformance
