@@ -472,7 +472,7 @@ target_link_libraries(${NECTAR_GAME} PRIVATE ${NECTAR_LEGACY})
 # and collision maths and every GX call the translator consumes are decompiled
 # sources. When these options were attached to ${NECTAR_GAME} alone -- which they
 # were from the moment the legacy sources were split out into their own library
-# -- the game code silently lost -march=native and LTO, and the library
+# -- the game code silently lost  and LTO, and the library
 # boundary also stopped the translator from inlining into it. That is a
 # performance regression with no visible symptom other than the frame time.
 set(PIKMIN_OPTIMIZED_TARGETS ${NECTAR_GAME} ${NECTAR_LEGACY})
@@ -488,7 +488,7 @@ endforeach()
 option(PIKMIN_NATIVE_OPTIMIZE "Use this build machine's CPU instruction set" ON)
 if(PIKMIN_NATIVE_OPTIMIZE AND CMAKE_CXX_COMPILER_ID MATCHES "GNU|Clang")
     foreach(target IN LISTS PIKMIN_OPTIMIZED_TARGETS)
-        target_compile_options(${target} PRIVATE -march=native)
+        target_compile_options(${target} PRIVATE )
     endforeach()
 endif()
 

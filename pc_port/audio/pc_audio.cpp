@@ -1966,3 +1966,10 @@ void pc_audio_tick(void) {
         sAIDMACallback();
     }
 }
+
+// Stub: with the legacy PC mixer (PIKI_USE_JAUDIO=0) src/jaudio/pikidemo.c is
+// not built, but moviePlayer.cpp still reports skipped demos.
+#if !PIKI_USE_JAUDIO
+#include "jaudio/pikidemo.h"
+void Jac_NoteDemoSkipped(void) {}
+#endif

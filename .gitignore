@@ -115,3 +115,4 @@ third_party/SDL2-mingw64/
 # Local HD model packs and prototype bundles (converted Nintendo assets; never commit)
 /dist/
 /mods/
+build.log
