@@ -22,6 +22,8 @@ Pikmin USA Rev 1 (GPIE01, revision 1) Should work fine
 ### Peformance
 
 **only tested in a R36S with dArkOSen** the performance is decent, around 24-30 fps, in some sections it may lag a bit 
+
+# Thanks to the SSunnKing for making Open Nectar, without Open Nectar this port would not exist right now.
  
 
 # Original Description
