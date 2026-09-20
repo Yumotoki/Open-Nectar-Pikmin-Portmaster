@@ -1,3 +1,31 @@
+
+Unofficial port of pikmin 1 for portmaster
+
+This repository does not include any Nintendo files. You need your own
+copy of the game, dumped from a disc you own and extract the assets with nectar launcher. 
+Copy the assets folder to the main folder (where nectar executable is)
+
+
+Pikmin USA Rev 1 (GPIE01, revision 1) Should work fine
+
+
+
+### Note
+- a few files on the disc have Japanese names that FAT/exFAT
+  cards cannot store. Your file manager may report an error while copying:
+  choose Skip all. The game does not need them.
+- the game looks for assets/ in the current directory, so the launch
+  script must cd into the game folder before running nectar.
+
+
+
+### Peformance
+
+**only tested in a R36S with dArkOSen** the performance is decent, around 24-30 fps, in some sections it may lag a bit 
+ 
+
+# Original Description
+
 # Open Nectar — Pikmin Native PC/Android Port
 
 <img width="2172" height="476" alt="opennectarlogo (1)" src="https://github.com/user-attachments/assets/71283101-1be5-4ca4-9b16-488320343cc8" />
