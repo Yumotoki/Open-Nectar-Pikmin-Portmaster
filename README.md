@@ -19,7 +19,7 @@ Pikmin USA Rev 1 (GPIE01, revision 1) Should work fine
 
 ### Regarding the use of AI in my projects, I am considering using it—and only to a limited extent—exclusively in projects that do not contain assets created by me (meaning if I make my own video game, I won't use any AI). To those reading this: I hope you respect my decision, and have a good day.
 
-(Text not AI generated, translated by google translator)
+(Text not AI generated, translated by google translator so i make sure it's understandable.)
 
 
 
