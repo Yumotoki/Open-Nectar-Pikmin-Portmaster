@@ -19,6 +19,8 @@ Pikmin USA Rev 1 (GPIE01, revision 1) Should work fine
 
 ### Regarding the use of AI in my projects, I am considering using it—and only to a limited extent—exclusively in projects that do not contain assets created by me (meaning if I make my own video game, I won't use any AI). To those reading this: I hope you respect my decision, and have a good day.
 
+Also, this project used Claude Sonnet 5.5 (Medium), for now it's pure AI Slop. later, when I have to optimize the project, I'll try to use AI only for questions.
+
 (Text not AI generated, translated by google translator so i make sure it's understandable.)
 
 
