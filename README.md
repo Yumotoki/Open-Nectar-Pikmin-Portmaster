@@ -27,7 +27,7 @@ Also, this project used Claude Sonnet 5.5 (Medium), for now it's pure AI Slop. l
 
 ### Peformance
 
-**only tested in a R36S with dArkOSen** the performance is decent, around 24-30 fps, in some sections it may lag a bit 
+**only tested in a R36S with dArkOSen** the performance is decent, around 24-30 fps, in the first, in the second section it starts to lag (around 10-18 fps), disabling fog can help a bit.
 
 # Thanks to SSunnKing for making Open Nectar, without Open Nectar this port would not exist right now.
  
